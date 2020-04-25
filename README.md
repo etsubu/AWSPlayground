@@ -1,2 +1,3 @@
 # AWSPlayground
-Contains AWS configurations for a test project
+
+This repo contains configuration files used by jenkins pipeline for a test AWS project
